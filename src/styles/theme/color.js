@@ -1,0 +1,23 @@
+export const color = {
+    blue_matte: '#D9E7F3',
+    blue_light: '#BBDBFC',
+    blue_sirio: '#0061AF',
+    blue_dark: '#012365',
+    pink_light: '#FFF2EE',
+    pink_medium: '#FEC3BB',
+    pink_salmon: '#F08996',
+    pink_dark: '#EF5163',
+    light: '#FFFFFF',
+    gray_100: '#F3F5F7',
+    gray_200: '#C6C8CC',
+    gray_300: '#8F9194',
+    gray_400: '#787A7C',
+    gray_500: '#606164',
+    gray_600: '#454547',
+    dark: '#231F20',
+    purple_light: '#F1E0FC',
+    purple_dark: '#A230EA',
+    green_light: '#DAEBDF',
+    green_dark: '#0A7B2D',
+
+}
