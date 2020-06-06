@@ -1,4 +1,4 @@
-# Pipefy - Board simmulatiion with cards drag and drop
+# Pipefy - Board with cards drag and drop simmulation
 
 ## Instructions
 - To install this project: **'yarn'** or **'npm i'**
